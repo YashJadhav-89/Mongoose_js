@@ -1,0 +1,6 @@
+REPL=read eval print loop
+
+command which run on cmd=
+1>node,
+2>.editor,
+3>.help,   //it gives all remaining commands.
